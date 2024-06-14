@@ -22,7 +22,7 @@ class TestClass3 {
 
     @Test
     void testMethod3() {
-        assertEquals(1, 1);
+        assertEquals(7, 7);
     }
 
     @Test
