@@ -32,7 +32,7 @@ class TestClass1 {
 
     @Test
     void testMethod5() {
-        assertEquals(7, 7);
+        assertEquals(1, 1);
     }
 
     @Test
