@@ -52,6 +52,6 @@ class TestClass1 {
 
     @Test
     void testMethod9() {
-        assertEquals(6, 6);
+        assertEquals(0, 0);
     }
 }
