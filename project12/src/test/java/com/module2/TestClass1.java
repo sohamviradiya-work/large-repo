@@ -12,7 +12,7 @@ class TestClass1 {
 
     @Test
     void testMethod1() {
-        assertEquals(8, 6);
+        assertEquals(3, 6);
     }
 
     @Test
