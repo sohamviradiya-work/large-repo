@@ -7,7 +7,7 @@ class TestClass1 {
 
     @Test
     void testMethod0() {
-        assertEquals(4, 4);
+        assertEquals(3, 3);
     }
 
     @Test
