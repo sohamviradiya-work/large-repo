@@ -2,3 +2,4 @@ rootProject.name = 'large-repo';
 include 'project0'
 include 'project1'
 include 'project2'
+include 'project3'
