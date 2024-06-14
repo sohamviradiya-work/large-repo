@@ -37,7 +37,7 @@ class TestClass0 {
 
     @Test
     void testMethod6() {
-        assertEquals(4, 4);
+        assertEquals(6, 6);
     }
 
     @Test
